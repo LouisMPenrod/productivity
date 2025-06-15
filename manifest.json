@@ -249,7 +249,7 @@
     },
     "cli": {
       "Source": "deps",
-      "Repository": null,
+      "Repository": "https://cran.rstudio.com",
       "description": {
         "Package": "cli",
         "Title": "Helpers for Developing Command Line Interfaces",
